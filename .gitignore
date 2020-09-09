@@ -1,0 +1,16 @@
+# Database
+db.sqlite3
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtualenv
+.venv
+venv/
+ENV/
+pyvenv.cfg
+env/
+env.bak/
+venv.bak/

@@ -1,0 +1,14 @@
+appdirs==1.4.4
+asgiref==3.2.10
+beautifulsoup4==4.9.1
+black @ git+git://github.com/psf/black@1e8916f450505bfe58649c1ff8c0a3708de47daa
+Django==3.1.1
+django-bootstrap4==2.2.0
+pathspec==0.8.0
+pytz==2020.1
+regex==2020.7.14
+six==1.15.0
+soupsieve==2.0.1
+sqlparse==0.3.1
+typed-ast==1.4.1
+typing-extensions==3.7.4.3
