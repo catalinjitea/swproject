@@ -5,6 +5,15 @@
         git clone https://github.com/catalinjitea/swproject
         cd swproject
 
+1. Create and run virtual environment:
+
+        python3 -m venv <venv_name>
+        source <venv_name>/bin/activate
+
+1. Install dependencies:
+
+        pip install -r requirements.txt
+
 1. Run migrations:
     
         python manage.py migrate
